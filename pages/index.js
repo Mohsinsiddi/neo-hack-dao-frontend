@@ -38,7 +38,7 @@ export default function Home() {
   // isOwner gets the owner of the contract through the signed address
   const [isOwner, setIsOwner] = useState(false);
 
-  const [isDaoRend, setIsDaoRend] = useState(false);
+  const [isDaoRend, setIsDaoRend] = useState(true);
   const [isNeoDAONFT, setIsNeoDaoNFT] = useState(false);
   const web3ModalRef = useRef();
 
