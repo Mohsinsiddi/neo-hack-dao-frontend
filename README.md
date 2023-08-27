@@ -1,9 +1,5 @@
 <h1 aling="center">NeoNFT DAO 🎨</h1>
 
-  <a href="https://github.com/gab0071" target="_blank">
-    <img alt="Author" src="https://img.shields.io/badge/made%20by-CatellaTech-blueviolet?style=flat-square">
-  </a>
-
   <br>
   <br>
 
