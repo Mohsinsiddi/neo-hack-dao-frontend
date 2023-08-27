@@ -7,7 +7,7 @@
   <br>
   <br>
 
-<img src="./img/img.png">
+<img src="./img/webimg.png">
 
 Making the frontend part of my project DAO smart contract!
 
